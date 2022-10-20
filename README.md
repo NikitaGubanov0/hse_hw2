@@ -15,8 +15,5 @@
 
 
 
-# Бонус:
-## [Бонус](https://colab.research.google.com/drive/1jljA0QoX2tz18oQ4HjPuo9vlsDm9673q)
-
 
 
