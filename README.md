@@ -1,12 +1,12 @@
 # hse_hw2
 
-#Часть 1:
+# Часть 1:
 https://colab.research.google.com/drive/1ol9Aznq3EkJHnCFPqG8yjq3QOoaM453v
 
-#Часть 2
+# Часть 2
 https://colab.research.google.com/drive/1NlWRXxkcuRkV5pQretz0qabxVHnn_QSm
 
-#Стастические данные:
+# Стастические данные:
 Предсказанно генов всего - 3602
 Удалось аннотировать с помощью сравнения с бактерией MIL-1 - 3323
 Удалось аннотировать с помощью БД SwissProt - 53
@@ -15,5 +15,5 @@ https://colab.research.google.com/drive/1NlWRXxkcuRkV5pQretz0qabxVHnn_QSm
 
 
 
-#Бонус:
+# Бонус:
 https://colab.research.google.com/drive/1jljA0QoX2tz18oQ4HjPuo9vlsDm9673q
