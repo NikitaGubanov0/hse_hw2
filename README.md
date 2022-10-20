@@ -1,5 +1,5 @@
-# hse_hw2
-
+## hse_hw2
+# Анотация Генома
 # Часть 1:
 ## [Первая часть обязательного задания](https://colab.research.google.com/drive/1ol9Aznq3EkJHnCFPqG8yjq3QOoaM453v)
 
